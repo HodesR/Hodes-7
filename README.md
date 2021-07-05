@@ -1,9 +1,7 @@
 <p align="center">  
 <img src="https://cdn.discordapp.com/attachments/791761561332482071/861549095712456724/unnamed.gif">
-</p>
 
-    <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/853350204005416963/861552738328510464/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/853350204005416963/861552738328510464/unknown.png">
 </p>
 <p align="center">
 Serveur Communautaire
